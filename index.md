@@ -10,3 +10,5 @@ hello
 # statistics_lect
 
 Hello
+
+[This is an external link to genome.gov](https://juansapena.github.io/statistics_intro/stat1)
